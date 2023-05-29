@@ -1,0 +1,21 @@
+{
+  "name": "2bPrecise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiliaZorin/2bPrecise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmiliaZorin/2bPrecise/issues"
+  },
+  "homepage": "https://github.com/EmiliaZorin/2bPrecise#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.34.3"
+  }
+}

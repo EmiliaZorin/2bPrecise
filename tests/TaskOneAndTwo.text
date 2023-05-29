@@ -1,0 +1,14 @@
+task 1:
+Five critical test:
+1.Check that end point is valid and returns object.
+2.Check that id is unique.
+3.Check that genesymbol and name exists.
+4.Check definitionid.
+5.Check functionalstatus.
+
+Five Additional tests:
+Check for the values of:
+1.frequency
+2.findings
+3.citations
+4.clinicalfunctionalstatus
